@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">VoiceFlow</string>
+    <string name="chat_screen_title">Chat</string>
+    <string name="recorder_idle">Ready to record</string>
+    <string name="recorder_recording">Recording…</string>
+    <string name="recorder_stopped">Recording saved</string>
+    <string name="recorder_transcribing">Transcribing…</string>
+    <string name="recorder_audio_message">Audio message</string>
+    <string name="recorder_cd_start">Start recording</string>
+    <string name="recorder_cd_cancel">Cancel recording</string>
+    <string name="recorder_cd_send">Send recording</string>
+    <string name="recorder_cd_audio_message">Audio message</string>
+    <string name="chat_typing_indicator">…</string>
+    <string name="recorder_permission_required_message">Microphone access required to record audio.</string>
+    <string name="recorder_permission_required_cta">Grant Permission</string>
+
+    <string name="chat_reset_title">New conversation</string>
+    <string name="chat_reset_message">Are you sure you want to delete this conversation and start a new one?</string>
+    <string name="chat_reset_confirm">Clear</string>
+    <string name="chat_reset_cancel">Cancel</string>
+    <string name="chat_retry">Retry</string>
+
+    <string name="chat_welcome_title">Welcome to Chat!</string>
+    <string name="chat_welcome_subtitle">Tap the microphone below to start your first voice-to-text conversation.</string>
+
+    <string name="settings_screen_title">Settings</string>
+    <string name="settings_cd_back">Back</string>
+    <string name="settings_cd_settings">Settings</string>
+    <string name="settings_tts_label">Read responses aloud</string>
+
+    <string name="error_offline">No internet connection. Check your network and try again.</string>
+    <string name="error_timeout">The server is taking too long to respond. Please try again.</string>
+    <string name="error_rate_limited">You\'re sending requests too quickly. Please wait a moment and try again.</string>
+    <string name="error_rate_limited_with_retry">Rate limit reached. Please wait %1$d seconds and try again.</string>
+    <string name="error_server">The server is unavailable right now. Please try again shortly.</string>
+    <string name="error_bad_request">We couldn\'t process that request. Please try again.</string>
+    <string name="error_empty_transcription">We didn\'t catch that. Please try recording again.</string>
+    <string name="error_transcription">Transcription failed. Please try recording again.</string>
+    <string name="error_recording_failed">Recording failed. Make sure no other app is using the microphone.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+
+    <string name="chat_persona_cd">Select persona</string>
+    <string name="persona_friendly">Friendly</string>
+    <string name="persona_parent">Parent</string>
+    <string name="persona_teacher">Teacher</string>
+</resources>

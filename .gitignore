@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+google-services.json
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Local-only
+local.properties
