@@ -12,7 +12,9 @@ Built to explore real-world constraints around latency, streaming UX, and AI int
 │  + Retrofit     │◀─ SSE token stream ──│                      │   (stream)
 └─────────────────┘                      └──────────────────────┘
 ```
-
+---
+## Screenshots
+![](https://github.com/user-attachments/assets/da7614fb-209c-49f1-a97e-0aa2349f15a3)  |  ![](https://github.com/user-attachments/assets/0f727146-5015-4979-afea-c12419885cfd)
 ---
 
 ## Why I built this
